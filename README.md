@@ -1,7 +1,7 @@
 # Histogram-of-an-images
 
-## *Name:* SHRIVARSHAN P G  
-## *Register Number:* 212225240146
+## *Name:* JANANI . D
+## *Register Number:* 212225040142
 
 
 ## Aim
