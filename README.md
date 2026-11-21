@@ -1,7 +1,7 @@
 # Histogram-of-an-images
 
-## *Name:* JANANI . D
-## *Register Number:* 212225040142
+##  Name: JANANI . D
+##  Register Number: 212225040142
 
 
 ## Aim
@@ -34,9 +34,6 @@ Plot and display the histograms of the grayscale image and color image.
 
 ## Program
 
-**Developed By:** SHRIVARSHAN P G
-
-**Register Number:** 212225240146
 
 ```python
 import cv2
